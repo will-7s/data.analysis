@@ -6,6 +6,8 @@
 
 **EDA App:** https://huggingface.co/spaces/will-7s/eda_app
 
+Drive Link : https://mega.nz/file/5Q9CjawR#R0yqASIQULwXpErRLiyq_VOHbSc_gkjt7j2MLj-4wNo 
+
 ---
 
 ## 📌 Business Problem
