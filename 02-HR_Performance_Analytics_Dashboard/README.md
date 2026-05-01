@@ -189,7 +189,7 @@ All measures are **fully filter-aware** — they adapt automatically to any acti
 
 ### Performance Distribution
 - **78%** of employees are at **Fully Meets** — objectives are broadly achieved
-- **10%** are underperforming — **6% Needs Improvement** + **4% PIP** (formal improvement plan)
+- **10%** are underperforming — **6% Needs Improvement** + **4% PIP** (Performance Improvement Plan)
 - Only **12%** exceed expectations
 
 ### Engagement & Satisfaction
