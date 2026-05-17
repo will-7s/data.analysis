@@ -6,7 +6,7 @@ Exploratory Data Analysis (EDA) on an HR dataset of 100,000 employees, aiming to
 
 ## Business Context
 
-A company seeks to analyze performance gaps across its departments by exploring relationships between qualitative variables (department, satisfaction) and quantitative variables (performance scores, hours worked). The goal is to statistically validate observed differences.
+A company seeks to analyze performance gaps across its departments by exploring relationships between qualitative variables (department, satisfaction) and quantitative variables (performance scores, team size, monthly salary). The goal is to statistically validate observed differences.
 
 **Dataset**: `Extended_Employee_Performance_and_Productivity_Data` — available on [Kaggle](https://www.kaggle.com/)
 **Dimensions**: 100,000 rows × 20 columns
